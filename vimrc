@@ -13,7 +13,6 @@ call vundle#begin()
 Plugin 'VundleVim/Vundle.vim'
 
 " 从这里开始添加自己的插件
-
 " MarkDown预览
 Plugin 'iamcco/mathjax-support-for-mkdp'
 Plugin 'iamcco/markdown-preview.vim'
